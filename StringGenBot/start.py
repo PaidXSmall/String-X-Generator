@@ -24,7 +24,6 @@ Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [Kʀɪsᴛʏ கிறிஸ்டி | 🇮�
                     InlineKeyboardButton(text="🙄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🙄", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("❣️ sᴏᴜʀᴄᴇ ❣️", user_id=OWNER_ID)
                     InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=OWNER_ID)
                 ]
             ]
